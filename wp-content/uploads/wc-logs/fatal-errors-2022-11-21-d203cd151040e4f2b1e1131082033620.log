@@ -1,0 +1,4 @@
+2022-11-21T12:53:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\francoarmellini\wp-includes\class-wp-image-editor-gd.php en la línea 208
+
+2022-11-21T13:05:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\francoarmellini\wp-includes\class-wpdb.php en la línea 2187
+
